@@ -1,5 +1,29 @@
 # Pipes
 
+#In detail in this application you can see:
+
+1.Pipes uppercase y lowercase
+
+2.Pipe Slice
+
+3.Pice Decimal
+
+4.Pipe Percent
+
+5.Pipe Currency
+
+6.Pipe Json
+
+7.Pipe Async
+
+8.Pipe Date
+
+9.Pipes personalizados
+
+Capitalize words and names.
+
+Creation of a pipe, which allows external resources to be loaded safely.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
